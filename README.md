@@ -1,1 +1,1 @@
-# cpp_error_handling
+# cpp-error-handling
